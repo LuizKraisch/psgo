@@ -1,0 +1,50 @@
+.h{
+    background: url(fundo.png);
+}
+
+.logo{
+	filter: invert(100%);
+}
+
+.logo2{
+	filter: grayscale(100%);
+}
+
+.scrollspysite{
+	position: relative;
+	overflow: auto;
+	height: 380px;
+}
+
+.lead{
+	background-color: black;
+	opacity: .6;
+	border-radius: 10px 10px;
+}
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255,102,203);
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.f{
+	 background:8000FF;
+	 color:8000FF;
+}
+
+/* equal card height */
+.row-equal > div[class*='col-'] {
+    display: flex;
+    flex: 1 0 auto;
+}
+
+.row-equal .card {
+   width: 100%;
+}
+
+.centro{
+	margin-left: 360px;
+}
+
+

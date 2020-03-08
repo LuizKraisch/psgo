@@ -1,0 +1,57 @@
+.preto{
+	width: 400px;
+	height: 1024px;
+	background-color: #0d0d0d;
+    border-bottom-right-radius: 30px;
+}
+
+.logoindex{
+	width: 190px;
+	height: 80px;
+	margin-left: 20px;
+}
+
+.logoindex2{
+	width: 100px;
+	height: 40px;
+	margin-left: 20px;
+}
+
+.texto{
+	margin-left: 30px;
+}
+
+.linha{
+	background-color: white;
+	margin-left: 30px;
+}
+
+.linha2{
+	background-color: white;
+	margin-right: 30px;
+}
+
+.linha3{
+	background-color: white;
+	margin-right: 70px;
+}
+
+.linha4{
+	background-color: white;
+	margin-right: 350px;
+}
+
+.fa-tools{
+	color: #fff;
+}
+
+.fa-car{
+	color: #fff;
+}
+
+.fa-users{
+	color: #fff;
+}
+
+
+	
